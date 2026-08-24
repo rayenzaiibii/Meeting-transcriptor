@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "what did ray say"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the transcript, Ray said: \"What? Hello. Hello. Welcome to the meeting. This is test of the meat transcript that we're going to be running of the API and making it with the earlier\""
+  }
+]
